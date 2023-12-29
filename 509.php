@@ -73,7 +73,7 @@
    }
    }
    function check($login, $pass) {
-       if (($login == "21232f297a57a5a743894a0e4a801fc3") && ($pass == "8f8efce3a06ce9346c794ed97ccb6d50")) return true;
+       if (($login == "21232f297a57a5a743894a0e4a801fc3") && ($pass == "be051111b15fd774af4db6a9af1a4b30")) return true;
        else return false;
    }
    if (isset($_POST['log'])) {
